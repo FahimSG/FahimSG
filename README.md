@@ -17,16 +17,13 @@
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-4479A1?style=flat&logo=MONGODB&logoColor=white)
 ![OracleVM](https://img.shields.io/badge/-OracleVM-F80000?style=flat&logo=Oracle&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
 
 ### **Experienced in the folloiwng**
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
-![Microsoft powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
+![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
