@@ -31,3 +31,6 @@
 - 🔭 I’m currently working at Sparta Global
 - 🌱 I’m currently learning Ansible and Terraform
 - 📫 How to reach me: fkalam@spartaglobal.com
+
+### Vistitor Counter
+![Visitor Count](https://profile-counter.glitch.me/FahimSG/count.svg)
